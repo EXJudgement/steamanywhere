@@ -4,7 +4,7 @@ By Accessing This GitHub Repository, You Agree To All Terms Included In This Lis
 
 You Agree To Not Distribute SteamAnywhere's Files Either Physically (ex. USB), Electronically (ex. Cloud/Google Drive), Or In Any Other Form
 
-SteamAnywhere Does Not Own Steam Inc. And Is An Unnoficial Project
+SteamAnywhere Does Not Own Steam Inc. And Is An Unofficial Project
 
 SteamAnywhere Does Not Accept Payments, Even If Donations. We Are Non-Profit, And Will Be Non-Profit. We Will NEVER Ask For Your Steam Username Or Password
 
